@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appName">Registriraj korisnika</string>
+    <string name="firstNameHint">Ime</string>
+    <string name="lastNameHint">Prezime</string>
+    <string name="emailHint">Elektronička pošta</string>
+    <string name="register">Registriraj se</string>
+    <string name="firstNameLabel">Ime:</string>
+    <string name="lastNameLabel">Prezime:</string>
+    <string name="emailLabel">Elektronička pošta:</string>
+</resources>
