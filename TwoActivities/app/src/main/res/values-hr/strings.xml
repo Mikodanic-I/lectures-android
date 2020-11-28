@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dvije aktivnosti</string>
+    <string name="button_send">Pošalji</string>
+    <string name="input_placeholder">Unesi poruku</string>
+</resources>
