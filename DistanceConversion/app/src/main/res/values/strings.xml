@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Distance Conversion</string>
+    <string name="label_km">Kilometers</string>
+    <string name="label_miles">Miles</string>
+    <string name="button_km_miles">Convert km</string>
+    <string name="button_miles_km">Convert miles</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Konverzija udaljenosti</string>
+    <string name="label_km">Kilometri</string>
+    <string name="label_miles">Milje</string>
+    <string name="button_km_miles">Pretvori km</string>
+    <string name="button_miles_km">Pretvori milje</string>
+</resources>
