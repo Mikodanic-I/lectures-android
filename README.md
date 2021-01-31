@@ -8,3 +8,4 @@
 - Exercise 04. _**[RegisterUser](https://github.com/Mikodanic-I/lectures-android/tree/master/RegisterUser)**_ (EditText, manipulate TextView with java)
 - Exercise 05. _**[TwoActivities](https://github.com/Mikodanic-I/lectures-android/tree/master/TwoActivities)**_ (intent, multiple activities)
 - Exercise 06. _**[GraphicsAndSound](https://github.com/Mikodanic-I/lectures-android/tree/master/GraphicsAndSound)**_ (MediaPlayer, res RAW directory)
+- Exercise 07. _**[DistanceConversion](https://github.com/Mikodanic-I/lectures-android/tree/master/DistanceConversion)**_ (onClickListener, EditText setText)
