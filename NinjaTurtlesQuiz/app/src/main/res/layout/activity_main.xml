@@ -30,28 +30,28 @@
         >
 
         <RadioButton
-            android:id="@+id/choiceLeonardo"
+            android:id="@+id/turtle_leonardo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Leonardo"
             tools:ignore="HardcodedText" />
 
         <RadioButton
-            android:id="@+id/choiceDonatelo"
+            android:id="@+id/turtle_donatelo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Donatelo"
             tools:ignore="HardcodedText" />
 
         <RadioButton
-            android:id="@+id/choiceMichelangelo"
+            android:id="@+id/turtle_michelangelo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Michelangelo "
             tools:ignore="HardcodedText" />
 
         <RadioButton
-            android:id="@+id/choiceRaphael"
+            android:id="@+id/turtle_raphael"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Raphael"
