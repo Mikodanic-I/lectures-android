@@ -11,4 +11,4 @@
 - Exercise 07. _**[DistanceConversion](https://github.com/Mikodanic-I/lectures-android/tree/master/DistanceConversion)**_ (onClickListener, EditText setText)
 - Exercise 08. _**[TicTacToe](https://github.com/Mikodanic-I/lectures-android/tree/master/TicTacToe)**_ (Buttons, LinearLayout, etc.)
 - Exercise 09. _**[NinjaTurtlesQuiz](https://github.com/Mikodanic-I/lectures-android/tree/master/NinjaTurtlesQuiz)**_ (onClick, Drawables, Intent, ArrayList, etc.)
-- Exercise 10. _**[NinjaTurtlesQuiz](https://github.com/Mikodanic-I/lectures-android/tree/master/AnimalPicker)**_ (Locale, Activity managing, Classes, etc.)
+- Exercise 10. _**[AnimalPicker](https://github.com/Mikodanic-I/lectures-android/tree/master/AnimalPicker)**_ (Locale, Activity managing, Classes, etc.)
