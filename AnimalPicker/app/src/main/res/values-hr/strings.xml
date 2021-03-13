@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birač životinja</string>
+    <string name="en_button">Engleski</string>
+    <string name="hr_button">Hrvatski</string>
+    <string name="dog">Pas</string>
+    <string name="chicken">Kokoš</string>
+    <string name="fox">Lisica</string>
+    <string name="horse">Konj</string>
+    <string name="your_choice_text">Vaša odabrana životinja je</string>
+</resources>

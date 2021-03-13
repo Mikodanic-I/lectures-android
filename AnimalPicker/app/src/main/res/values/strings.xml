@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Animal Picker</string>
+    <string name="en_button">English</string>
+    <string name="hr_button">Croatian</string>
+    <string name="dog">Dog</string>
+    <string name="chicken">Chicken</string>
+    <string name="fox">Fox</string>
+    <string name="horse">Horse</string>
+    <string name="your_choice_text">Your chosen animal is a</string>
+</resources>
