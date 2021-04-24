@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Pokreti</string>
+    <string name="placeholder_text">Čekanje korisničkih pokreta</string>
+    <string name="down">Dolje</string>
+    <string name="fling">Prelet</string>
+    <string name="long_press">Dugi pritisak</string>
+    <string name="scroll">Listanje</string>
+    <string name="show_press">Prikaz</string>
+    <string name="single_tap_up">Jednostruko prema gore</string>
+    <string name="double_tap">Dvostruki pritisak</string>
+    <string name="single_tap_confirmed">Jednostruki pritisak</string>
+    <string name="double_tap_event">Dvostruki pritisak (Event)</string>
+</resources>

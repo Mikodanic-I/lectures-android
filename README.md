@@ -12,3 +12,4 @@
 - Lecture 08. _**[TicTacToe](https://github.com/Mikodanic-I/lectures-android/tree/master/TicTacToe)**_ (Buttons, LinearLayout, etc.)
 - Lecture 09. _**[NinjaTurtlesQuiz](https://github.com/Mikodanic-I/lectures-android/tree/master/NinjaTurtlesQuiz)**_ (onClick, Drawables, Intent, ArrayList, etc.)
 - Lecture 10. _**[AnimalPicker](https://github.com/Mikodanic-I/lectures-android/tree/master/AnimalPicker)**_ (Locale, Activity managing, Classes, etc.)
+- Lecture 11. _**[AndroidGestures](https://github.com/Mikodanic-I/lectures-android/tree/master/AndroidGestures)**_ (Locale, Gestures)

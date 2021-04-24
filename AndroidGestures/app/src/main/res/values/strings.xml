@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android Gestures</string>
+    <string name="placeholder_text">Waiting for user\'s gestures</string>
+    <string name="down">Down</string>
+    <string name="fling">Fling</string>
+    <string name="long_press">Long press</string>
+    <string name="scroll">Scroll</string>
+    <string name="show_press">Show</string>
+    <string name="single_tap_up">Single tap up</string>
+    <string name="double_tap">Double tap</string>
+    <string name="single_tap_confirmed">Single tap</string>
+    <string name="double_tap_event">Double tap (Event)</string>
+</resources>
